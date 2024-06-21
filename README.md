@@ -8,7 +8,7 @@
 - Andrés Amancio Cáceres
 
 #### Asesor:
-- [Nombre del asesor]
+- Ernesto Cancho
 
 ---
 
