@@ -72,4 +72,4 @@ Para reproducir los resultados de esta tesis, sigue estos pasos:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/AndresAmc99/Tesis-Analisis-Series-Temporales.git]
+   git clone https://github.com/AndresAmc99/Tesis-Analisis-Series-Temporales.git
